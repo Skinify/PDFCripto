@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\bin\Debug\netcoreapp3.1\LogicaCripto.deps.json
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\bin\Debug\netcoreapp3.1\LogicaCripto.dll
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\bin\Debug\netcoreapp3.1\LogicaCripto.pdb
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\obj\Debug\netcoreapp3.1\LogicaCripto.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\obj\Debug\netcoreapp3.1\LogicaCripto.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\obj\Debug\netcoreapp3.1\LogicaCripto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\obj\Debug\netcoreapp3.1\LogicaCripto.dll
+C:\Users\Gabriel\Desktop\PdfCripto\LogicaCripto\obj\Debug\netcoreapp3.1\LogicaCripto.pdb

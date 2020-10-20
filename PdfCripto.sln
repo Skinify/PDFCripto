@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cripto.Interface", "PdfCripto\Cripto.Interface.csproj", "{DE7820B0-6D47-4B36-8A3C-62726D6DC257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cripto.Domain", "ClassLibrary1\Cripto.Domain.csproj", "{AD54CE7B-7B22-4ABE-A745-A3295E9F8EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7820B0-6D47-4B36-8A3C-62726D6DC257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7820B0-6D47-4B36-8A3C-62726D6DC257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7820B0-6D47-4B36-8A3C-62726D6DC257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7820B0-6D47-4B36-8A3C-62726D6DC257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD54CE7B-7B22-4ABE-A745-A3295E9F8EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD54CE7B-7B22-4ABE-A745-A3295E9F8EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD54CE7B-7B22-4ABE-A745-A3295E9F8EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD54CE7B-7B22-4ABE-A745-A3295E9F8EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A2C152-BD04-48E9-8E24-125DE8EEC85A}
+	EndGlobalSection
+EndGlobal
