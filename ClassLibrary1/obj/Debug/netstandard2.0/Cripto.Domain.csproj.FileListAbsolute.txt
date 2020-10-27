@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\bin\Debug\netstandard2.0\Cripto.Domain.deps.json
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\bin\Debug\netstandard2.0\Cripto.Domain.dll
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\obj\Debug\netstandard2.0\Cripto.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\obj\Debug\netstandard2.0\Cripto.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\bin\Debug\netstandard2.0\Cripto.Domain.pdb
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\obj\Debug\netstandard2.0\Cripto.Domain.dll
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\obj\Debug\netstandard2.0\Cripto.Domain.pdb
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\obj\Debug\netstandard2.0\Cripto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\PdfCripto\ClassLibrary1\obj\Debug\netstandard2.0\Cripto.Domain.csprojAssemblyReference.cache
