@@ -123,8 +123,8 @@ namespace PdfCripto
         {
             MessageBox.Show("Creditos aos alunos do 4º semestre de 2020 da Anhembi Morumbi\n" +
                 "Gabriel Marcilio - 21307373\n" +
-                "Leonardo Moretti - N\n" +
-                "Noelen Giovanna - N\n\n" +
+                "Leonardo Moretti - 21334342\n" +
+                "Noelen Giovanna - 21228714\n\n" +
                 "Segurança e auditoria de sistemas\n" +
                 "Sistemas de informação\n", "Ajuda",
                                     MessageBoxButtons.OK,
